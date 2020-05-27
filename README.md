@@ -1,6 +1,8 @@
 # Coin-toss-slot-machine-simulator
 Coin Toss and Slot Machine Simulator Project
 
+This project focuses on the princples of looping structures
+
  * - Purpose: To create a menu driven program that allows the user to select one of two following simulators to run or to quit the program. The first simulator is for tossing a coin multiple times and tracking the total number of heads and tails of the coin tosses. The second simulator is for a functioning slot machine.
  * 
  * - Input: Input for Coin Toss Machine: User input amount of coin tosses.
